@@ -9,7 +9,7 @@
 # (yepengliu/CtrlRegen) was built against. Validate against the pinned
 # noai-watermark commit before bumping.
 diffusers==0.27.2
-transformers==4.37.2
+transformers==5.15.0
 accelerate==1.14.0
 controlnet-aux==0.0.10
 color-matcher==0.6.0
