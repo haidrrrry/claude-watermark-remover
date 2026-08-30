@@ -1,5 +1,5 @@
 ---
-name: remove-claude-marks
+name: remove-ai-marks
 description: >
   Remove multi-vendor AI provenance marks: invisible Unicode (Layer A), statistical
   text watermarks via rewrite (Layer B, always offer), and C2PA/EXIF/XMP/container
